@@ -1,0 +1,2 @@
+# spatiotemporal_anomaly_detection
+Spatiotemporal anomaly detection learning arbitrarily-shaped spatial autocorreation
